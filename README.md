@@ -1,6 +1,24 @@
 # 🛡️ Counter Fraud – Data Quality & Analytics System
 ### SAMA-Aligned | Saudi Digital Banking | Fraud Risk Analytics
 
+<p align="center">
+  <a href="https://fraud-analytics-platform-sowrwwsyapfzhbrbqyaev.streamlit.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Dashboard-Click%20to%20View-red?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Dashboard"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SAMA-Compliant-green?style=for-the-badge" alt="SAMA"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL-Advanced-orange?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+
+<p align="center">
+  <b>👉 <a href="https://fraud-analytics-platform-sowrwwsyapfzhbrbqyaev.streamlit.app">Click here to open the Live Interactive Dashboard</a> 👈</b>
+</p>
+
+---
+
 > **Built as a portfolio project aligned with the Counter Fraud – Data Quality Specialist role at Atmaal, Riyadh.**
 > Demonstrates end-to-end fraud data quality management, analytics, anomaly detection, and SAMA-compliant regulatory reporting.
 
