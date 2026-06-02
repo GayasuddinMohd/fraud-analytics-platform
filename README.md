@@ -2,7 +2,7 @@
 ### SAMA-Aligned | Saudi Digital Banking | Fraud Risk Analytics
 
 <p align="center">
-  <a href="https://fraud-analytics-platform-sowrwwsyapfzhbrbqyaev.streamlit.app" target="_blank">
+  <a href="https://fraud-analytics-platform-sovwrvwsyapfzhbrbqyaev.streamlit.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Live%20Dashboard-Click%20to%20View-red?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Dashboard"/>
   </a>
   &nbsp;
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <b>👉 <a href="https://fraud-analytics-platform-sowrwwsyapfzhbrbqyaev.streamlit.app">Click here to open the Live Interactive Dashboard</a> 👈</b>
+  <b>👉 <a href="https://fraud-analytics-platform-sovwrvwsyapfzhbrbqyaev.streamlit.app/">Click here to open the Live Interactive Dashboard</a> 👈</b>
 </p>
 
 ---
@@ -29,6 +29,7 @@
 This project simulates a **production-grade Fraud Data Quality & Analytics System** for a Saudi digital bank operating under SAMA (Saudi Arabian Monetary Authority) Counter Fraud guidelines.
 
 It covers every responsibility listed in the job description:
+
 | JD Requirement | Project Coverage |
 |---|---|
 | Fraud data validation, deduplication, completeness | `sql/01_data_quality_checks.sql` + `python/fraud_dq_analysis.py` |
@@ -42,7 +43,7 @@ It covers every responsibility listed in the job description:
 
 ## 🗂️ Project Structure
 
-```
+```text
 fraud_dq_project/
 │
 ├── data/
@@ -109,6 +110,7 @@ fraud_dq_project/
 ## 📡 Anomaly Detection
 
 **Method:** Z-Score statistical anomaly detection on completed transaction amounts
+
 - Mean transaction: SAR 2,477
 - Std deviation: SAR 19,945
 - **94 anomalous transactions** (|Z| > 3σ) flagged
