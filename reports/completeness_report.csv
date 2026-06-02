@@ -1,0 +1,9 @@
+field,total_records,null_count,null_pct,completeness_pct,status
+transaction_id,50900,0,0.0,100.0,PASS
+customer_id,50900,0,0.0,100.0,PASS
+account_id,50900,0,0.0,100.0,PASS
+timestamp,50900,0,0.0,100.0,PASS
+amount,50900,0,0.0,100.0,PASS
+currency,50900,1562,3.069,96.931,FAIL
+channel,50900,1527,3.0,97.0,FAIL
+fraud_type,50900,0,0.0,100.0,PASS

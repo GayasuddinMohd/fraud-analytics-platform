@@ -1,0 +1,15 @@
+{
+  "report_date": "2026-06-01",
+  "total_records": 50000,
+  "unique_transactions": 49501,
+  "duplicate_records": 499,
+  "duplicate_rate_pct": 1.0,
+  "null_account_numbers": 800,
+  "null_merchant_ids": 1000,
+  "invalid_amounts": 0,
+  "inconsistent_fraud": 0,
+  "unreported_to_sama": 430,
+  "anomalous_transactions": 94,
+  "mule_account_flags": 192,
+  "overall_dq_score_pct": 98.1
+}

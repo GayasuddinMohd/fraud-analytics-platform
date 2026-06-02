@@ -1,0 +1,6 @@
+dimension,score_pct,weight,status
+Completeness,99.2,25%,PASS
+Uniqueness,97.7,25%,WARN
+Validity,98.8,25%,PASS
+Consistency,96.2,25%,WARN
+OVERALL DQ SCORE,98.0,100%,PASS
